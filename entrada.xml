@@ -10,19 +10,27 @@
 </channel>
 
 <channel>
-<name>[B][COLOR purple]Filmes [/COLOR] [COLOR yellow]2025[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</thumbnail>
-<fanart>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</fanart>
+<name>[COLOR purple]Filmes [/COLOR] [COLOR yellow]2025[/COLOR]</name>
+<thumbnail>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</thumbnail>
+<fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon CAVALEIROREPO/R.O & AMIGOS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/Cavaleirorepo2/refs/heads/main/filmes2025.xml</externallink>
 </channel>
   
 <channel>
 <name>[COLOR yellow]Filmes24hrs [/COLOR] [COLOR purple]Diversos[/COLOR]</name>
-<thumbnail>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</thumbnail>
-<fanart>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</fanart>
+<thumbnail>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</thumbnail>
+<fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon CAVALEIROREPO/R.O & AMIGOS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/Cavaleirorepo2/refs/heads/main/filmes24horas.xml</externallink>
+</channel>
+
+<channel>
+<name>[COLOR purple]Séries [/COLOR] [COLOR green]2025[/COLOR]</name>
+<thumbnail>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</thumbnail>
+<fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon CAVALEIROREPO/R.O & AMIGOS [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/Cavaleirorepo2/refs/heads/main/series2025.xml</externallink>
 </channel>
   
 <channel>
@@ -35,8 +43,8 @@
 
 <channel>
 <name>[B][COLOR yellow]Clipes&Rádio24hrs [/COLOR] [COLOR purple]Diversos[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</thumbnail>
-<fanart>https://archive.org/download/0a-0eb-6b-3-84fd-48e-9-b-7dc-0f-2191f-85d-7f/_0a0eb6b3-84fd-48e9-b7dc-0f2191f85d7f.jpg</fanart>
+<thumbnail>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</thumbnail>
+<fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon CAVALEIROREPO/R.O & AMIGOS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/Cavaleirorepo2/refs/heads/main/clipeseradios24horas.xml</externallink>
 </channel>
