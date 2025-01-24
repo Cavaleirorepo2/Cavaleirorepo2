@@ -1,0 +1,7 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT HD
+http://go7l99a.com:80/alice2/123579Aa/469477
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND TV HD" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV HD
+http://go7l99a.com:80/alice2/123579Aa/469455
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV POA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo RBS TV POA HD¹
+http://go7l99a.com:80/alice2/123579Aa/97406
