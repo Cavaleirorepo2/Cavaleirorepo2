@@ -48,9 +48,17 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon CAVALEIROREPO/R.O & AMIGOS [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/Cavaleirorepo2/refs/heads/main/seriesturcas.xml</externallink>
 </channel>
+
+<channel>
+<name>[COLOR purple]Clássico [/COLOR] [COLOR green]O Hobbit[/COLOR]</name>
+<thumbnail>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</thumbnail>
+<fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon CAVALEIROREPO/R.O & AMIGOS [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/Cavaleirorepo2/refs/heads/main/classicosohobbit.xml</externallink>
+</channel>
   
 <channel>
-<name>[B][COLOR yellow]Clássicos [/COLOR] [COLOR purple]Ytapalhoes & Mazzaropi[/COLOR][/B]</name>
+<name>[B][COLOR yellow]Clássicos [/COLOR] [COLOR purple]Trapalhoes & Mazzaropi[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</thumbnail>
 <fanart>https://archive.org/download/whats-app-image-2025-01-12-at-12.15.38/WhatsApp%20Image%202025-01-12%20at%2012.15.38.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon CAVALEIROREPO/R.O & AMIGOS [/COLOR]</info>
